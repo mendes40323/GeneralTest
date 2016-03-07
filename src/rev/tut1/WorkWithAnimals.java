@@ -11,6 +11,6 @@ public class WorkWithAnimals {
 
         fido.digHole();
 
-        fido.setWeight(-1);
+        fido.setWeight(10);
     }
 }
