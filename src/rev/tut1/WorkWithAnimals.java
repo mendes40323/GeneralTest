@@ -12,5 +12,7 @@ public class WorkWithAnimals {
         fido.digHole();
 
         fido.setWeight(10);
+
+        System.out.println(fido.getSound());
     }
 }
