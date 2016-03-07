@@ -14,5 +14,11 @@ public class WorkWithAnimals {
         fido.setWeight(10);
 
         System.out.println(fido.getSound());
+
+        Cat fred = new Cat();
+        fred.setName("Fred");
+
+        System.out.println(fred.getSound());
+
     }
 }
